@@ -11,7 +11,7 @@ This project was developed as part of my **Data Analytics course** to gain hands
 
 ##  Tools Used
 - [Excel](https://github.com/YasinSyed-2099/Blinkit-Power-BI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – for raw data storage and preparation
-- [Power BI]** – for creating interactive dashboards
+- [Power BI](https://github.com/YasinSyed-2099/Blinkit-Power-BI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – for creating interactive dashboards
 
 
 ---
