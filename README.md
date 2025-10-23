@@ -16,5 +16,5 @@ This project was developed as part of my **Data Analytics course** to gain hands
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](https://raw.githubusercontent.com/YasinSyed-2099/Blinkit-Power-BI/main/Blinkit%20Dashboard%20image.png)
