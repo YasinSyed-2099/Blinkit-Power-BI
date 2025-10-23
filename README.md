@@ -16,4 +16,4 @@ This project was developed as part of my **Data Analytics course** to gain hands
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview]([path/to/your/dashboard-image.png](https://github.com/YasinSyed-2099/Blinkit-Power-BI/edit/main/Blinkit%20Dashboard%20image.png))  
+[Dashboard](https://github.com/YasinSyed-2099/Blinkit-Power-BI/edit/main/Blinkit%20Dashboard%20image.png)
